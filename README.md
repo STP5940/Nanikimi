@@ -1,7 +1,7 @@
 # Nanikimi Script
 เว็บฝรั่งเอามาโมไว้นานละ
 
-![Sc1](screenshot/sc1.png
+![Sc1](screenshot/sc1.png)
 
 ## หน้าที่ต้องแก้ไข @/config.php
 ```php
